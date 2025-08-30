@@ -1,0 +1,5 @@
+npm install --save-dev jest ts-jest @types/jest
+npm install --save-dev @types/jest
+npm install --save-dev @types/node
+npm install --save-dev ts-node
+npm install --save-dev ts-node @types/node
